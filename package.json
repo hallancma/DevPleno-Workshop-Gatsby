@@ -1,0 +1,12 @@
+{
+  "name": "DevPleno-Workshop-Gatsby",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hallancma/DevPleno-Workshop-Gatsby.git",
+  "author": "Hallan Christian <hallancma@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-cli": "^2.8.29",
+    "serve": "^11.3.0"
+  }
+}

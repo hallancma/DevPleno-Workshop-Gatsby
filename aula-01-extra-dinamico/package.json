@@ -1,0 +1,10 @@
+{
+  "name": "aula-01-extra-dinamico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hallan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
