@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Index"],"mappings":"2FAAA,0CAMeA,UAJD,WACZ,OAAO","file":"component---src-pages-index-js-cb7d6519c6ebc83151fa.js","sourcesContent":["import React from 'react';\nimport './style.css';\nconst Index = () => {\n  return <div>olá lima móveis</div>;\n};\n\nexport default Index;\n"],"sourceRoot":""}

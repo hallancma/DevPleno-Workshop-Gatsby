@@ -1,0 +1,8 @@
+root = true // especifica que seu projeto inteiro a partir deste ponto irá ter um padrão baseado nas configurações deste arquivo
+
+[*] // Aqui estamos dando match em TODOS os tipos de arquivos, mas você poderia especificar passando algo como: [*.{js,py}]
+indent_style = space // Força que mesmo que alguém aperte tab, ele seja convertido para espaços isso ajuda a padronizar o tamaho da distância entre todos os editores já que o tab varia muito o espaçamento
+indent_size = 2 // Aqui estamos forçando que mesmo que o usuário de um tab ele seja equivalente a 2 espaços
+charset = utf-8 // Forçamos o encode utf-8 
+trim_trailing_whitespace = false // Aqui estamos removendo espaços desnecessários que ficam no final de uma linha
+insert_final_newline = true // 
